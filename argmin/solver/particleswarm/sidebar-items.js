@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["Particle","A single particle"],["ParticleSwarm","Particle Swarm Optimization (PSO)"]],"trait":[["Position","Position"]]});
+window.SIDEBAR_ITEMS = {"struct":[["Particle","A single particle"],["ParticleSwarm","Particle Swarm Optimization (PSO)"]]};
